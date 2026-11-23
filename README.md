@@ -1,4 +1,6 @@
 ﻿# Лабораторная работа: развёртывание Strapi и PostgreSQL в Docker
+ 
+Гитхаб Пейджес https://temhblustalker.github.io/strapi-postgresql-docker/service-and-support.html
 
 ## Описание проекта
 
@@ -208,4 +210,5 @@ docker compose --env-file .\strapi-app\.env start
 ```powershell
 docker compose --env-file .\strapi-app\.env down
 ```
+
 
